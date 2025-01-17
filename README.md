@@ -1,3 +1,6 @@
+<!--
+Автор: Андрей Куренков | email: kurenkow@mail.ru | tg: @kurenkow
+-->
 ### Результаты выполнения [тестового задания](https://github.com/kurenkow/dion/blob/main/Тестовое_задание_Технический_писатель.pdf)
 
 ---
